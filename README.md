@@ -44,8 +44,8 @@ class FootballAdmin(admin.ModelAdmin):
     
 ```
 ## OUTPUT
-![Alt text](<Screenshot 2023-10-18 085307.png>)
 
+![Alt text](<Screenshot 2023-11-01 094756.png>)
 
 
 ## RESULT
